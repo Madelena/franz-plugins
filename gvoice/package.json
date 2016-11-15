@@ -1,0 +1,23 @@
+{
+  "name": "googlevoice",
+  "version": "1.0.0",
+  "description": "googlevoice",
+  "main": "index.js",
+  "author": "Madelena Mak",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.google.com/voice/b/1?pli=1#inbox",
+    "serviceName": "Google Voice",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}

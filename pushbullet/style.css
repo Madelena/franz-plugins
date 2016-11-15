@@ -1,0 +1,8 @@
+#header {
+    display: none;
+    height: 0;
+}
+
+#sink>div:last-child {
+    top: 0 !important;
+}
